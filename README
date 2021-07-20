@@ -30,7 +30,7 @@ Wei.
 The code in the files that constitute xv6 is
 Copyright 2006-2020 Frans Kaashoek, Robert Morris, and Russ Cox.
 
-ERROR REPORTS
+/ERROR REPORTS/
 
 Please send errors and suggestions to Frans Kaashoek and Robert Morris
 (kaashoek,rtm@mit.edu). The main purpose of xv6 is as a teaching
